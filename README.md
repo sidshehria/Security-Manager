@@ -11,7 +11,7 @@ This Script is made usng Python.
 5. Optionally, create an executable (.exe) file for your program.
 
 -----------------------------------------------------------------------------------------------------------------------------
-#Instructions:
+# Instructions:
 Run Security_manager.exe file as administrator.
 
 -----------------------------------------------------------------------------------------------------------------------------
